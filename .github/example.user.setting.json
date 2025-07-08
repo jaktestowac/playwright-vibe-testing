@@ -1,0 +1,26 @@
+{
+  "git.autofetch": true,
+  "window.zoomLevel": 1,
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+    "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "diffEditor.ignoreTrimWhitespace": false,
+  "playwright.showTrace": true,
+  "playwright.reuseBrowser": false,
+  "mcp": {
+    "servers": {
+      "playwright": {
+        "command": "npx",
+        "args": [
+          "@playwright/mcp@latest"
+        ]
+      }
+    }
+  },
+  "chat.tools.autoApprove": true
+}
