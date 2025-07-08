@@ -20,16 +20,22 @@ We believe in the power of open source and the importance of giving back to the 
 Read more about our **[Contribution to Playwright and Community](https://jaktestowac.pl/contribution-playwright/)**
 
 🏃‍♂️ 
-This repository is outcome of actions taken during the webinar.
+This repository is outcome of actions taken during the webinar (with corrected code to make it work).
+
 To start your journey with Playwright Vibe Testing, we recommend you need:
-- GitHub account (free is enough)
+- [GitHub](https://github.com/) account (free is enough)
 - [Node.js](https://nodejs.org/en/download/)
 - [Git](https://git-scm.com/downloads)
 - [Visual Studio Code](https://code.visualstudio.com/)
    - [Playwright Test for VS Code](https://marketplace.visualstudio.com/items?itemName=jaktestowac-playwright-test) - our free extension to help you with Playwright development
    - Being logged in to GitHub in VS Code
-   - Inspect user settings in VS Code (CTRL + SHIFT + P) and search for "User settings (JSON)" to find and open the settings.json file
+   - Inspect user settings in VS Code (CTRL + SHIFT + P) and search for "User settings (JSON)" to find and open the settings.json file - synch with main settings what are in .github/example.user.settings.json
 
+Follow prompts in `.github/prompts-library.md` to set up your project and start testing.
+
+Tested application is [EventBugAI](https://eventbugai.onrender.com/), a simple event management application.
+
+Happy Vibe Testing! 🚀
 
 ---
 
