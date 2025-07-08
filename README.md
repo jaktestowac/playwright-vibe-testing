@@ -8,18 +8,7 @@ that demonstrate use of AI, Agents, and Playwright MCP for advanced test automat
 
 To see more details about the webinar, please visit our website: https://jaktestowac.pl/vibe by jaktestowac.pl team.
 
-## Who we are?
-
-We are **Test Architects and Senior Lead Tech Quality Engineers**, who are passionate about testing.
-We are constantly looking for new ways to improve our skills and share our knowledge with others.
-
-We are actively involved in the Playwright community, contributing to the project and sharing our knowledge with others. We have been using Playwright in **different companies and projects since 2021**.
-
-We believe in the power of open source and the importance of giving back to the community.
-
-Read more about our **[Contribution to Playwright and Community](https://jaktestowac.pl/contribution-playwright/)**
-
-🏃‍♂️ 
+## How to Start?
 This repository is outcome of actions taken during the webinar (with corrected code to make it work).
 
 To start your journey with Playwright Vibe Testing, we recommend you need:
@@ -36,6 +25,18 @@ Follow prompts in `.github/prompts-library.md` to set up your project and start 
 Tested application is [EventBugAI](https://eventbugai.onrender.com/), a simple event management application.
 
 Happy Vibe Testing! 🚀
+
+## Who we are?
+
+We are **Test Architects and Senior Lead Tech Quality Engineers**, who are passionate about testing.
+We are constantly looking for new ways to improve our skills and share our knowledge with others.
+
+We are actively involved in the Playwright community, contributing to the project and sharing our knowledge with others. We have been using Playwright in **different companies and projects since 2021**.
+
+We believe in the power of open source and the importance of giving back to the community.
+
+Read more about our **[Contribution to Playwright and Community](https://jaktestowac.pl/contribution-playwright/)**
+
 
 ---
 
